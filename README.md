@@ -25,6 +25,7 @@ The following R packages should be installed prior to running the code in this r
 
 ## 6. Test for association between two Categorical Variables
 * Chi-square test of independence
+ * Use of risk ratio and odds ratio for meauring the direction of associations
 
 ## 7. Calculating the Power of a Statistical Test
 ## 8. Sample size calculation
